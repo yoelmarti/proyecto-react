@@ -1,0 +1,129 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Nike React Element 55",
+            "price": 149.99, 
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/a63c47a9-e786-4c3a-99e8-8e920b24d184/custom-nike-react-element-55-by-you.png",
+            "color": "Baya genuino/Azul furia/Blanco",
+            "description": "Las Nike BB Adapt son la mayor revolución en la historia moderna de Nike y del baloncesto. Con una tecnología fascinante y con Zoom Turbo, la mejor amortiguación de Nike, este modelo lo tiene todo. Se han mejorado muchas cosas con respecto al primer modelo y el resultado es impresionante. ",
+            "categoria": "Zapatillas de lifestyle - Hombre"
+        },
+        {
+            "id": 2,
+            "name": "Nike Air Force 1 '07 LXX",
+            "price": 129.99,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/8a97ee33-c85c-4a88-a9ad-a5f9de18c94f/air-force-1-07-lxx-zapatillas-pXW0XL.png",
+            "color": "Rattan/Pecan/Summit White/Negro",
+            "description": "Puede que haga frío al aire libre, pero las Nike Air Force 1 '07 LV8, confeccionadas con, al menos, un 20 % de materiales reciclados por peso, mantienen el estilo y la calidez.Entra en calor durante los días más fríos con detalles acolchados, un forro cómodo y un diseño inspirado en el baloncesto que derretirá la nieve a tu alrededor.",
+            "categoria": "Zapatillas para mujer"
+        },
+        {
+            "id": 3,
+            "name": "Air Jordan 1 Mid SE",
+            "price": 129.99,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/5b28b624-db76-4407-9405-107ba7f7ae17/air-jordan-1-mid-se-zapatillas-MkNjwX.png",
+            "color": "Chile Red/Pollen/Armory Navy/Blanco",
+            "description": "Dale un toque Flight a tu estilo con las Air Jordan 1 Mid, unas zapatillas con infinitas posibilidades.Esta edición especial de las famosas zapatillas de perfil medio, tan innovadoras como siempre, ofrecen una comodidad duradera a todos los amantes de este clásico diseño.",
+            "categoria": "Zapatillas"
+        },
+        {
+            "id": 4,
+            "name": "Why Not Zer0.5",
+            "price": 149.99,
+            "image": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/829c98db-4c73-42a2-a9ee-deccf4df26d6/fecha-de-lanzamiento-de-las-why-not-zer0-5-htg.jpg",
+            "color": "Russell Westbrook",
+            "description": "El estilo de juego expansivo de Russell Westbrook sigue dominando tanto dentro como fuera de la cancha. Para sus Why Not Zer0.5 exclusivas, la franquicia Jordan colabora con la marca de ropa Honor The Gift de Russ para crear un nuevo look electrizante con la sensación original. Diseñadas con materiales como la pana, el nylon premium y una suela de goma, estas Why Not Zer0.5 reflejan el pasado sin dejar de mirar hacia el futuro. La etiqueta con la marca Honor The Gift completa el look con el crudo estilo revolucionario que define a Russell.",
+            "categoria": "Zapatillas de Baloncesto - Hombre"
+        },
+        {
+            "id": 5,
+            "name": "Nike Air Zoom Pegasus 38",
+            "price": 124.99,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/8d927006-7400-44f9-ace1-c02e9b88f72d/air-zoom-pegasus-38-zapatillas-de-running-carretera-GZHQGH.png",
+            "color": "Off White/Aurora Green/Teal Tint/Negro",
+            "description": "Ha vuelto nuestro todoterreno con alas, esta vez listo para recorrer las calles de Tokio.Las Nike Air Zoom Pegasus 38 siguen amortiguando cada pisada con la misma espuma reactiva que empleaban sus predecesoras.La parte superior de malla transpirable combina la comodidad y la durabilidad que necesitas con un ajuste más amplio en la puntera.Las llamativas formas geométricas del talón rinden homenaje al paisaje urbano mientras corres.",
+            "categoria": "Zapatillas de running para asfalto - Mujer"
+        },
+        {
+            "id": 6,
+            "name": "Air Jordan 1 Hi FlyEase",
+            "price": 99.99,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/36820102-a8a0-4095-b9f6-f78ad6387b59/air-jordan-1-hi-flyease-zapatillas-nino-a-GLXvxk.png",
+            "color": "Cardinal Red/Blanco",
+            "description": "Las Air Jordan 1 Hi FlyEase combinan el codiciado estilo de las primeras zapatillas exclusivas de Michael Jordan con un sistema de entrada rápido y sencillo con una sola mano.No hay cordones, solo una cremallera envolvente y dos correas para un ajuste personalizable.",
+            "categoria": "Zapatillas"
+        },
+        {
+            "id": 7,
+            "name": "Nike Air Max 90 SE",
+            "price": 149.99,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/8e4b8d8e-7cfa-46fe-91d0-132695796982/air-max-90-se-zapatillas-l3qx4n.png",
+            "color": "Roma Green/Naranja/Mean Green/Sail",
+            "description": "El 'Air Max Running Club' es el equipo de atletismo ficticio de Nike, que lleva la inspiración de los 70 a los básicos del estilo urbano.Las Nike Air Max 90 SE combinan la diversión retro con un nuevo brillo y se mantienen fieles a sus orígenes con la icónica suela tipo gofre, los revestimientos cosidos y los clásicos detalles de TPU en el talón y los ojales.El logotipo inspirado en el Athletics West rinde homenaje al deporte, al tiempo que la amortiguación Max Air añade comodidad.",
+            "categoria": "Zapatillas - Hombre"
+        },
+        {
+            "id": 8,
+            "name": "Nike React Infinity Run Flyknit 2",
+            "price": 159.99,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/42d66d81-4b05-4993-adb9-51fa79ca7318/react-infinity-run-flyknit-2-zapatillas-de-running-asfalto-qzRzKl.png",
+            "color": "Negro/Ghost/Dark Smoke Grey/Oro metalizado",
+            "description":"Las Nike React Infinity Run Flyknit 2 siguen manteniéndote en marcha. La parte superior renovada combina la tecnología Flywire con el Flyknit para ofrecer sujeción y transpirabilidad donde más las necesitas. El antepié más ancho proporciona estabilidad para evitar que se enrolle, y la espuma alta proporciona una reactividad suave y una comodidad duradera. Siguen siendo unas de nuestras zapatillas más probadas, diseñadas para desatar todo tu potencial cuando el pie entra en contacto con el asfalto.",
+            "categoria": "Zapatillas de running para asfalto - Mujer"
+        },
+        {
+            "id": 9,
+            "name": "Nike Metcon 7 FlyEase",
+            "price": 129.99,
+            "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/fb149f6b-c850-4708-ac13-1c2cb4df89d5/metcon-7-flyease-zapatillas-de-entrenamiento-RKGv1m.png",
+            "color": "Total Orange/Dark Smoke Grey/Clear Emerald/Blanco",
+            "description": "Las Nike Metcon 7 FlyEase redefinen la estabilidad y durabilidad para resistir los entrenamientos de fuerza más exigentes.La amortiguación reactiva y ligera ofrece comodidad durante los entrenamientos de levantamiento de peso, intervalos de alta intensidad, esprints y carreras cortas.Cuentan con un talón que se contrae para que puedas ponértelas sin tener que usar las manos y recupera la forma para mantener un ajuste seguro.",
+            "categoria":"Zapatillas de entrenamiento"
+        },
+        {
+            "id": 10,
+            "name": "Nike Metcon 7 X",
+            "price": 139.99,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/8fcdb67b-9d77-4e5f-bbde-f80eb7eae64e/metcon-7-zapatillas-de-entrenamiento-wghWtp.png",
+            "color": "White/Multicolor Black Yellow/Strike",
+            "description":"El Nike Metcon 7 AMP es el estándar de oro para el entrenamiento con pesas, incluso más resistente y más estable que las versiones anteriores. También hemos agregado espuma React que aumenta la comodidad para mantenerte listo para ejercicios cardiovasculares de alta intensidad. Además, una pestaña bloquea tus cordones para que puedas olvidarte de que se desaten cuando estés concentrado en tu próximo PR.",
+            "categoria":"Zapatillas de entrenamiento"
+        },
+        {
+            "id": 11,
+            "name": "Nike Waffle One SE",
+            "price": 99.99,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/2c0aa11b-ff1d-496b-a864-2aca2f391e9f/waffle-one-zapatillas-1JSWJP.png",
+            "color": "Blanco/Sail/University Red/Game Royal",
+            "description":"Las Nike Waffle One aportan un nuevo look a la icónica franquicia Waffle e incorporan lo que más te gusta del legado de Nike Running con nuevas innovaciones.El clip de plástico en el talón añade energía, y la combinación de malla transparente y ante exquisito aporta un toque actual.La mediasuela elástica ofrece la clásica forma de cuña, y la suela exterior tipo gofre actualizada proporciona un nivel de sujeción y tracción que tienes que probar para creértelo.",
+            "categoria": "Zapatillas - Hombre"
+        },
+        {
+            "id": 12,
+            "name": "Nike Blazer Mid '77 Jumbo",
+            "price": 109.99,
+            "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/336b31a9-12a2-49a1-b303-8d2947963d08/blazer-mid-77-jumbo-zapatillas-3LXxgJ.png",
+            "color": "Blanco/Blanco/Sail/Dark Russet", 
+            "description":"Alabadas por muchos por su aspecto y su sensación de resistencia, el básico de armario se actualiza con las Nike Blazer Mid ' 77 Jumbo.Aprovecha el look clásico que más te gusta, que ahora cuenta con un talón elástico con textura de pana y unas presillas grandes para que puedas ponértelas y quitártelas fácilmente.El diseño Swoosh extragrande y los cordones enormes añaden un toque divertido.",
+            "categoria": "Zapatillas - Hombre"
+        }
+    ],
+    "users":[
+        {
+            "email": "Juan@upgrade.com", 
+            "password": "12345", 
+            "name": "Juan"
+        },
+        {
+            "email": "prueba@prueba.com", 
+            "password": "prueba1", 
+            "name": "Yoel"
+        },
+        {
+            "email": "Alberto@upgrade.com", 
+            "password": "13245", 
+            "name": "Alberto"
+        }
+    ]
+}
